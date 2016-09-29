@@ -49,8 +49,6 @@
 			$this->sayHello('Jay'); //call a method within an object & pass a var
 		}
 
-	echo '<br>';
-
 		public function sayHello($name){
 			echo 'Hello ', $name;
 		}
